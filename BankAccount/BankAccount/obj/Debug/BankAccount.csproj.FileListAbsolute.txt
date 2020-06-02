@@ -1,0 +1,21 @@
+C:\Users\macal\Desktop\School\Programming for Business\Visual Studio\BankAccount\BankAccount\bin\Debug\BankAccount.exe.config
+C:\Users\macal\Desktop\School\Programming for Business\Visual Studio\BankAccount\BankAccount\bin\Debug\BankAccount.exe
+C:\Users\macal\Desktop\School\Programming for Business\Visual Studio\BankAccount\BankAccount\bin\Debug\BankAccount.pdb
+C:\Users\macal\Desktop\School\Programming for Business\Visual Studio\BankAccount\BankAccount\obj\Debug\BankAccount.csprojAssemblyReference.cache
+C:\Users\macal\Desktop\School\Programming for Business\Visual Studio\BankAccount\BankAccount\obj\Debug\BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\macal\Desktop\School\Programming for Business\Visual Studio\BankAccount\BankAccount\obj\Debug\BankAccount.exe
+C:\Users\macal\Desktop\School\Programming for Business\Visual Studio\BankAccount\BankAccount\obj\Debug\BankAccount.pdb
+C:\C#testing\BankAccount\BankAccount\bin\Debug\BankAccount.exe.config
+C:\C#testing\BankAccount\BankAccount\bin\Debug\BankAccount.exe
+C:\C#testing\BankAccount\BankAccount\bin\Debug\BankAccount.pdb
+C:\C#testing\BankAccount\BankAccount\obj\Debug\BankAccount.csprojAssemblyReference.cache
+C:\C#testing\BankAccount\BankAccount\obj\Debug\BankAccount.csproj.CoreCompileInputs.cache
+C:\C#testing\BankAccount\BankAccount\obj\Debug\BankAccount.exe
+C:\C#testing\BankAccount\BankAccount\obj\Debug\BankAccount.pdb
+C:\Users\c_wad\OneDrive\CLASS\SPRING 2019\Business Application Management\BankAccount\BankAccount\BankAccount\bin\Debug\BankAccount.exe.config
+C:\Users\c_wad\OneDrive\CLASS\SPRING 2019\Business Application Management\BankAccount\BankAccount\BankAccount\bin\Debug\BankAccount.exe
+C:\Users\c_wad\OneDrive\CLASS\SPRING 2019\Business Application Management\BankAccount\BankAccount\BankAccount\bin\Debug\BankAccount.pdb
+C:\Users\c_wad\OneDrive\CLASS\SPRING 2019\Business Application Management\BankAccount\BankAccount\BankAccount\obj\Debug\BankAccount.csprojAssemblyReference.cache
+C:\Users\c_wad\OneDrive\CLASS\SPRING 2019\Business Application Management\BankAccount\BankAccount\BankAccount\obj\Debug\BankAccount.exe
+C:\Users\c_wad\OneDrive\CLASS\SPRING 2019\Business Application Management\BankAccount\BankAccount\BankAccount\obj\Debug\BankAccount.pdb
+C:\Users\c_wad\OneDrive\CLASS\SPRING 2019\Business Application Management\BankAccount\BankAccount\BankAccount\obj\Debug\BankAccount.csproj.CoreCompileInputs.cache
